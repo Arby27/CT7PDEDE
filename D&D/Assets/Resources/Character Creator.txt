@@ -1,0 +1,13 @@
+Character Creator
+0
+2
+0
+0
+0
+0
+Elf
+none
+Barbarian
+PathOfBeserker
+1
+0

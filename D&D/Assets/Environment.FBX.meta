@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: c54991785da13c64ebf830c1d1d16a50
+timeCreated: 1509472133
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Environment
+    100004: FloatyBallOfDeath_01
+    100006: GenericChair001
+    100008: GenericChair002
+    100010: GenericChair003
+    100012: GenericChair004
+    100014: GenericChair005
+    100016: GenericChair006
+    100018: P1_D10
+    100020: P1_D10 1
+    100022: P1_D12
+    100024: P1_D20
+    100026: P1_D4
+    100028: P1_D6
+    100030: P1_D8
+    100032: P1_Parchment01
+    100034: P1_Parchment02
+    100036: P2_D10
+    100038: P2_D10 1
+    100040: P2_D12
+    100042: P2_D20
+    100044: P2_D4
+    100046: P2_D6
+    100048: P2_D8
+    100050: P2_Parchment01
+    100052: P2_Parchment02
+    100054: P3_D10
+    100056: P3_D10 1
+    100058: P3_D12
+    100060: P3_D20
+    100062: P3_D4
+    100064: P3_D6
+    100066: P3_D8
+    100068: P3_Parchment01
+    100070: P3_Parchment02
+    100072: P4_D10
+    100074: P4_D10 1
+    100076: P4_D12
+    100078: P4_D20
+    100080: P4_D4
+    100082: P4_D6
+    100084: P4_D8
+    100086: P4_Parchment01
+    100088: P4_Parchment02
+    100090: P5_D10
+    100092: P5_D10 1
+    100094: P5_D12
+    100096: P5_D20
+    100098: P5_D4
+    100100: P5_D6
+    100102: P5_D8
+    100104: P5_Parchment01
+    100106: P5_Parchment02
+    100108: P6_D10
+    100110: P6_D10 1
+    100112: P6_D12
+    100114: P6_D20
+    100116: P6_D4
+    100118: P6_D6
+    100120: P6_D8
+    100122: P6_Parchment01
+    100124: P6_Parchment02
+    400000: Environment
+    400002: //RootNode
+    400004: FloatyBallOfDeath_01
+    400006: GenericChair001
+    400008: GenericChair002
+    400010: GenericChair003
+    400012: GenericChair004
+    400014: GenericChair005
+    400016: GenericChair006
+    400018: P1_D10
+    400020: P1_D10 1
+    400022: P1_D12
+    400024: P1_D20
+    400026: P1_D4
+    400028: P1_D6
+    400030: P1_D8
+    400032: P1_Parchment01
+    400034: P1_Parchment02
+    400036: P2_D10
+    400038: P2_D10 1
+    400040: P2_D12
+    400042: P2_D20
+    400044: P2_D4
+    400046: P2_D6
+    400048: P2_D8
+    400050: P2_Parchment01
+    400052: P2_Parchment02
+    400054: P3_D10
+    400056: P3_D10 1
+    400058: P3_D12
+    400060: P3_D20
+    400062: P3_D4
+    400064: P3_D6
+    400066: P3_D8
+    400068: P3_Parchment01
+    400070: P3_Parchment02
+    400072: P4_D10
+    400074: P4_D10 1
+    400076: P4_D12
+    400078: P4_D20
+    400080: P4_D4
+    400082: P4_D6
+    400084: P4_D8
+    400086: P4_Parchment01
+    400088: P4_Parchment02
+    400090: P5_D10
+    400092: P5_D10 1
+    400094: P5_D12
+    400096: P5_D20
+    400098: P5_D4
+    400100: P5_D6
+    400102: P5_D8
+    400104: P5_Parchment01
+    400106: P5_Parchment02
+    400108: P6_D10
+    400110: P6_D10 1
+    400112: P6_D12
+    400114: P6_D20
+    400116: P6_D4
+    400118: P6_D6
+    400120: P6_D8
+    400122: P6_Parchment01
+    400124: P6_Parchment02
+    2300000: Environment
+    2300002: FloatyBallOfDeath_01
+    2300004: GenericChair001
+    2300006: GenericChair002
+    2300008: GenericChair003
+    2300010: GenericChair004
+    2300012: GenericChair005
+    2300014: GenericChair006
+    2300016: P1_D10
+    2300018: P1_D10 1
+    2300020: P1_D12
+    2300022: P1_D20
+    2300024: P1_D4
+    2300026: P1_D6
+    2300028: P1_D8
+    2300030: P1_Parchment01
+    2300032: P1_Parchment02
+    2300034: P2_D10
+    2300036: P2_D10 1
+    2300038: P2_D12
+    2300040: P2_D20
+    2300042: P2_D4
+    2300044: P2_D6
+    2300046: P2_D8
+    2300048: P2_Parchment01
+    2300050: P2_Parchment02
+    2300052: P3_D10
+    2300054: P3_D10 1
+    2300056: P3_D12
+    2300058: P3_D20
+    2300060: P3_D4
+    2300062: P3_D6
+    2300064: P3_D8
+    2300066: P3_Parchment01
+    2300068: P3_Parchment02
+    2300070: P4_D10
+    2300072: P4_D10 1
+    2300074: P4_D12
+    2300076: P4_D20
+    2300078: P4_D4
+    2300080: P4_D6
+    2300082: P4_D8
+    2300084: P4_Parchment01
+    2300086: P4_Parchment02
+    2300088: P5_D10
+    2300090: P5_D10 1
+    2300092: P5_D12
+    2300094: P5_D20
+    2300096: P5_D4
+    2300098: P5_D6
+    2300100: P5_D8
+    2300102: P5_Parchment01
+    2300104: P5_Parchment02
+    2300106: P6_D10
+    2300108: P6_D10 1
+    2300110: P6_D12
+    2300112: P6_D20
+    2300114: P6_D4
+    2300116: P6_D6
+    2300118: P6_D8
+    2300120: P6_Parchment01
+    2300122: P6_Parchment02
+    3300000: Environment
+    3300002: FloatyBallOfDeath_01
+    3300004: GenericChair001
+    3300006: GenericChair002
+    3300008: GenericChair003
+    3300010: GenericChair004
+    3300012: GenericChair005
+    3300014: GenericChair006
+    3300016: P1_D10
+    3300018: P1_D10 1
+    3300020: P1_D12
+    3300022: P1_D20
+    3300024: P1_D4
+    3300026: P1_D6
+    3300028: P1_D8
+    3300030: P1_Parchment01
+    3300032: P1_Parchment02
+    3300034: P2_D10
+    3300036: P2_D10 1
+    3300038: P2_D12
+    3300040: P2_D20
+    3300042: P2_D4
+    3300044: P2_D6
+    3300046: P2_D8
+    3300048: P2_Parchment01
+    3300050: P2_Parchment02
+    3300052: P3_D10
+    3300054: P3_D10 1
+    3300056: P3_D12
+    3300058: P3_D20
+    3300060: P3_D4
+    3300062: P3_D6
+    3300064: P3_D8
+    3300066: P3_Parchment01
+    3300068: P3_Parchment02
+    3300070: P4_D10
+    3300072: P4_D10 1
+    3300074: P4_D12
+    3300076: P4_D20
+    3300078: P4_D4
+    3300080: P4_D6
+    3300082: P4_D8
+    3300084: P4_Parchment01
+    3300086: P4_Parchment02
+    3300088: P5_D10
+    3300090: P5_D10 1
+    3300092: P5_D12
+    3300094: P5_D20
+    3300096: P5_D4
+    3300098: P5_D6
+    3300100: P5_D8
+    3300102: P5_Parchment01
+    3300104: P5_Parchment02
+    3300106: P6_D10
+    3300108: P6_D10 1
+    3300110: P6_D12
+    3300112: P6_D20
+    3300114: P6_D4
+    3300116: P6_D6
+    3300118: P6_D8
+    3300120: P6_Parchment01
+    3300122: P6_Parchment02
+    4300000: Environment
+    4300002: FloatyBallOfDeath_01
+    4300004: GenericChair001
+    4300006: GenericChair002
+    4300008: GenericChair003
+    4300010: GenericChair004
+    4300012: GenericChair005
+    4300014: GenericChair006
+    4300016: P4_D20
+    4300018: P4_D12
+    4300020: P4_D10
+    4300022: P4_D10
+    4300024: P4_D8
+    4300026: P4_D6
+    4300028: P4_D4
+    4300030: P4_Parchment02
+    4300032: P4_Parchment01
+    4300034: P5_D10
+    4300036: P5_D10
+    4300038: P5_D12
+    4300040: P5_D20
+    4300042: P5_D4
+    4300044: P5_D6
+    4300046: P5_D8
+    4300048: P5_Parchment02
+    4300050: P5_Parchment01
+    4300052: P6_D10
+    4300054: P6_D10
+    4300056: P6_D12
+    4300058: P6_D20
+    4300060: P6_D4
+    4300062: P6_D6
+    4300064: P6_D8
+    4300066: P6_Parchment02
+    4300068: P6_Parchment01
+    4300070: P1_D10
+    4300072: P1_D10
+    4300074: P1_D12
+    4300076: P1_D20
+    4300078: P1_D4
+    4300080: P1_D6
+    4300082: P1_D8
+    4300084: P1_Parchment02
+    4300086: P1_Parchment01
+    4300088: P2_D10
+    4300090: P2_D10
+    4300092: P2_D12
+    4300094: P2_D20
+    4300096: P2_D4
+    4300098: P2_D6
+    4300100: P2_D8
+    4300102: P2_Parchment02
+    4300104: P2_Parchment01
+    4300106: P3_D10
+    4300108: P3_D10
+    4300110: P3_D12
+    4300112: P3_D20
+    4300114: P3_D4
+    4300116: P3_D6
+    4300118: P3_D8
+    4300120: P3_Parchment02
+    4300122: P3_Parchment01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
